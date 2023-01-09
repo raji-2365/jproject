@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Nalli]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-09T21:21:54 IST" name="Default suite" finished-at="2023-01-09T21:21:54 IST" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T21:21:54 IST" name="Default test" finished-at="2023-01-09T21:21:54 IST" duration-ms="49">
+      <class name="dummy.test2">
+        <test-method signature="m2()[pri:0, instance:dummy.test2@33990a0c]" started-at="2023-01-09T21:21:54 IST" name="m2" finished-at="2023-01-09T21:21:54 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Nalli]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- dummy.test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
